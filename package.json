@@ -1,8 +1,10 @@
 {
-    "name": "jardin_connect",
-    "version": "0.0.1",
-    "description": "projet",
-    "dependencies": {
-
-    }
+  "name": "jardin",
+  "version": "0.0.1",
+  "description": "projet",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1",
+    "mqtt": "^4.0.1"
   }
+}
